@@ -17,7 +17,7 @@ public class main {
         String name= jsonObject.getString("name");
         int age= jsonObject.getInt("age");
         System.out.println("Name: " + name);
-        System.out.println("Age: " + age);
+
 
     }
 
